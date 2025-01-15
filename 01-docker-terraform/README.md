@@ -58,3 +58,8 @@ db:5432
 | JFK Airport | 87.3        |
 +-------------+-------------+
 ```
+
+
+## Question 7
+
+terraform init, terraform apply -auto-aprove, terraform destroy
