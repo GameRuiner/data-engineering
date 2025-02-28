@@ -172,3 +172,4 @@ cython_debug/
 
 data-engineering-447907-01707c0a399f.json
 *.parquet
+*.csv.gz
